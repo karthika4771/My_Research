@@ -6,7 +6,7 @@ Published on Medium : https://medium.com/@karthika.4771/quantum-computing-how-it
 - Used neural networks to reduce qubit errors  
 
 ## Download Paper  
-- [PDF Version](Quantum_AI_Paper_karthika.pdf)  
+- [PDF Version] https://drive.google.com/file/d/1RJV9ETwEJFYRpzIqb0sbdkt5rLinNAO9/view?usp=drivesdk
 
 ## About Me  
 - High school researcher applying to universities 
